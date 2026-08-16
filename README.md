@@ -22,4 +22,6 @@ Web Developer from Bangladesh 🇧🇩, building full-stack web apps with a focu
 - Portfolio: [View my work](https://kamrulhasannahidkhan.github.io/skAssignment1/)
 
 ## 🛠️ Tech Stack
+Next.js · TypeScript · JavaScript · React · Tailwind CSS · MongoDB · Git · GitHub
+
 ![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,react,tailwind,mongodb,git,github)
