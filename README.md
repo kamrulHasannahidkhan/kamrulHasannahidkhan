@@ -4,7 +4,7 @@ Web Developer from Bangladesh 🇧🇩, building full-stack web apps with a focu
 
 ## 🚀 About Me
 - Building with Next.js, TypeScript, and Tailwind CSS
-- Backend: MongoDB Atlas + Cloudinary
+- Backend: Node.js, Express.js, REST APIs, MongoDB Atlas + Cloudinary
 - Exploring Bangladesh payment integrations like bKash, Nagad, SSLCommerz
 - Open to internship and junior developer roles
 
@@ -22,6 +22,6 @@ Web Developer from Bangladesh 🇧🇩, building full-stack web apps with a focu
 - Portfolio: [View my work](https://kamrulhasannahidkhan.github.io/skAssignment1/)
 
 ## 🛠️ Tech Stack
-Next.js · TypeScript · JavaScript · React · Tailwind CSS · MongoDB · Git · GitHub
+Next.js · TypeScript · JavaScript · React · Node.js · Express.js · REST APIs · Tailwind CSS · MongoDB · Git · GitHub
 
-![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,react,tailwind,mongodb,git,github)
+![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,react,nodejs,express,tailwind,mongodb,git,github)
