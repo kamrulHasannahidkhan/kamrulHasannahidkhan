@@ -26,4 +26,3 @@ Next.js · TypeScript · JavaScript · React · Node.js · Express.js · REST AP
 
 ![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,react,nodejs,express,tailwind,mongodb,git,github)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kamrulhasannahidkhan&theme=dark&hide_border=true)](https://git.io/streak-stats)
