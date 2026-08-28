@@ -25,3 +25,5 @@ Web Developer from Bangladesh 🇧🇩, building full-stack web apps with a focu
 Next.js · TypeScript · JavaScript · React · Node.js · Express.js · REST APIs · Tailwind CSS · MongoDB · Git · GitHub
 
 ![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,react,nodejs,express,tailwind,mongodb,git,github)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kamrulhasannahidkhan&theme=dark&hide_border=true)](https://git.io/streak-stats)
